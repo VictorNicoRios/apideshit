@@ -1,0 +1,62 @@
+[
+    {
+      "id": "aatrox",
+      "key": "266",
+      "name": "Aatrox",
+      "title": "the Darkin Blade",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ]
+    },
+    {
+        "id": "victorino",
+        "key": "354",
+        "name": "Victor",
+        "title": "Quie se yo",
+        "tags": [
+          "peleador",
+          "Tank"
+        ]
+      },
+      {
+        "id": "victorinox",
+        "key": "4",
+        "name": "Victor2",
+        "title": "Quie se syo",
+        "tags": [
+          "peleador",
+          "Tank"
+        ]
+      },
+      {
+        "id": "sofi",
+        "key": "1",
+        "name": "Zelda",
+        "title": "Quie asd",
+        "tags": [
+          "peleador",
+          "Tank"
+        ]
+      },
+      {
+        "id": "default",
+        "key": "4",
+        "name": "TAHIEL",
+        "title": "Quie se syo",
+        "tags": [
+          "peleador",
+          "Tank"
+        ]
+      },
+      {
+        "id": "vicASDArinox",
+        "key": "4",
+        "name": "Dai",
+        "title": "Quie se syo",
+        "tags": [
+          "peleador",
+          "Tank"
+        ]
+      }
+]
